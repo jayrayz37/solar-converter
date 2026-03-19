@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pillow
-tifffile
-numpy
-python-multipart 
